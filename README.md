@@ -9,7 +9,7 @@
 
 I'm a PRC-licensed civil engineer currently working at **Total Safe Development Construction Inc.** (A AA ACAB licensed general contractor) across document control, on-site QA, and cost control functions. My day-to-day spans RFI/RFA/submittal/NCR management, subcontractor coordination, plan review, site inspections with the Project Manager and PIC, supplier evaluation, and supporting project cost monitoring — including rebar works, concrete QA, and method statement preparation.
 
-My long-term goal is to contribute to infrastructure consultancy work — the kind that shapes how regions develop. I keep a close eye on the **Luzon Economic Corridor** and multilateral-funded projects as the context I want to grow into.
+My long-term goal is to contribute to infrastructure consultancy work — the kind that shapes how regions develop, specially the province that I live in. Currently, I'm keeping a close eye on the **Luzon Economic Corridor** and multilateral-funded projects as the context I want to grow into.
 
 ---
 
