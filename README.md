@@ -1,5 +1,5 @@
 # Lois Jairam B. Llamas, CE
-**Licensed Civil Engineer** · Document Control · Quality Assurance · Cost Control · Santa Maria, Bulacan, Philippines
+**Licensed Civil Engineer** · Document Control · Quality Assurance · Cost Control · Bulacan, Philippines
 
 > Transitioning from contractor-side construction into infrastructure consultancy and large-scale project delivery. Interested in multilateral-funded infrastructure, rail, elevated structures, and bridge projects across Central Luzon and beyond.
 
