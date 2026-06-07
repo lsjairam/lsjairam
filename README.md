@@ -9,7 +9,7 @@
 
 I'm a PRC-licensed civil engineer currently working at **Total Safe Development Construction Inc.** (A AA ACAB licensed general contractor) across document control, on-site QA, and cost control functions. My day-to-day spans RFI/RFA/submittal/NCR management, subcontractor coordination, plan review, site inspections with the Project Manager and PIC, supplier evaluation, and supporting project cost monitoring — including rebar works, concrete QA, and method statement preparation.
 
-My long-term goal is to enter consultancy and help shape the lived environment and experiences of the communities I work in. Currently, I'm keeping a close eye on the **Luzon Economic Corridor** and multilateral-funded projects as the context I want to grow into.
+My long-term goal is to enter consultancy and help shape the lived environment and experiences of the communities I work in — especially here in Bulacan. Currently, I'm keeping a close eye on the **Luzon Economic Corridor** and multilateral-funded projects as the context I want to grow into.
 
 ---
 
@@ -56,6 +56,7 @@ These are anonymized or template-level work products — the kinds of documents 
 - 📊 [`rebar-cutting-list-template.xlsx`](./artifacts/rebar-cutting-list-template.xlsx) — Rebar schedule format with bar mark, diameter, shape code, length, and quantity columns
 - 📝 [`method-statement-outline.md`](./artifacts/method-statement-outline.md) — Standard method statement structure for concrete placement activities
 - 💰 [`supplier-evaluation-template.xlsx`](./artifacts/supplier-evaluation-template.xlsx) — Supplier assessment matrix covering spec compliance, pricing, lead time, and track record scoring
+- 📋 [`RFA-SAMPLE-FOR SUBMISSION.pdf`](https://github.com/lsjairam/lsjairam.github.io/blob/18abc56f125ec45c7a6f89530de8812e59fbba92/Samples/RFA-SAMPLE-FOR%20SUBMISSION.pdf) — Sample Request for Approval document prepared for material/method submission
 
 > *Note: All documents are either generic templates or fully anonymized. No confidential project data is included.*
 
